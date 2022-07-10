@@ -192,3 +192,25 @@ overflow: hidden;
     transform: translateY(-15px);
 }
 
+
+
+@media only screen and (max-width: 500px) {
+    .background-item-3{
+        top: -270px;
+    }
+    .background-item-2{
+        top: -94px;
+    }
+    .background-item-2{
+        top: -94px;
+    }
+    .background-item-4 {
+        bottom: -173px;
+    }
+  }
+
+  @media only screen and (max-width: 420px) {
+    .background-item-3{
+        top: -190px;
+    }
+  }
